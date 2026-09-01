@@ -35,14 +35,14 @@ Customer Experience Analyst responsible for reviewing raw customer feedback, ide
 ## Key Learnings
 1. Effective prompt structuring ensures consistent sentiment analysis.
 2. Verification is critical to avoid AI hallucinations in customer data.
+3. AI excels at extracting actionable insights from messy feedback[cite: 1].
 
 ## Trainee Information
 Trainee Name:Rayan Faisal Abu Derman
 Training Program: LO-FGP (Generative AI for Workplace Productivity)
 Instructor: Fahad Alqahtani
 Date: 2026-09-01
-By @SDAIA Academy
-3. AI excels at extracting actionable insights from messy feedback[cite: 1].
+By @SDAIA Academy (https://github.com/SDAIAAcademy)
 
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive customer information. All examples are fictional or anonymized. AI-generated content was reviewed by the trainee, who takes responsibility for the final work[cite: 1].
