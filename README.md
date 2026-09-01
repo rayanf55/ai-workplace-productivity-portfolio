@@ -42,7 +42,7 @@ Trainee Name:Rayan Faisal Abu Derman
 Training Program: LO-FGP (Generative AI for Workplace Productivity)
 Instructor: Fahad Alqahtani
 Date: 2026-09-01
-By @SDAIA Academy (https://github.com/SDAIAAcademy)
+By [@SDAIA Academy](https://github.com/SDAIAAcademy)
 
 ## Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive customer information. All examples are fictional or anonymized. AI-generated content was reviewed by the trainee, who takes responsibility for the final work[cite: 1].
