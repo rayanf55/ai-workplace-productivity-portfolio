@@ -1,10 +1,12 @@
 # AI Workplace Productivity Portfolio - Customer Experience Analyst
 
 ## Trainee Information
-Trainee Name: ريان فيصل أبو درمان
+Trainee Name:Rayan Faisal Abu Derman
 Training Program: LO-FGP (Generative AI for Workplace Productivity)
 Instructor: Fahad Alqahtani
 Date: 2026-09-01
+By @SDAIA Academy
+
 
 ## Project Overview
 This repository serves as a professional portfolio demonstrating the practical application of generative AI tools. As a Customer Experience Analyst, I utilized AI to analyze unstructured customer feedback, draft empathetic responses, and structure reporting workflows while maintaining strict verification standards[cite: 1].
