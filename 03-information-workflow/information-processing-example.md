@@ -4,8 +4,9 @@
 - "The app keeps freezing every time I try to check out. I tried 3 times and my card was charged twice but no confirmation! I need a refund."
 - "Customer service was great and Sarah was very helpful, but the delivery was delayed by two days from the promised date."
 
-## Chosen Task
-Extracting and Restructuring: Turning messy notes into a decision-ready action-item table.
+## Chosen Task & Why
+**Tasks Used:** Extracting and Restructuring. 
+**Why:** I chose these tasks because the raw feedback contained multiple hidden issues (refunds, app bugs, logistics) that needed to be extracted and restructured into a clear table so different departments (Finance, Tech, Logistics) could take immediate action without reading the messy text.
 
 ## Prompt Used
 "Act as a CX Analyst. Read the raw feedback. Extract the issue, determine sentiment, assign priority, and define an action item. Output as a Markdown table."
